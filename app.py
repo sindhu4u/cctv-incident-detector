@@ -8,7 +8,7 @@ SAMPLE_VIDEOS = {
     "Test sample 3": "vandalism1.mp4",
     "Test sample 4": "violence.mp4",
     "Test sample 5": "violence2.mp4",
-    "Test sample 5": "vandalism2.mp4"
+    "Test sample 6": "vandalism2.mp4"
    
     
     
@@ -19,6 +19,11 @@ CATEGORIES = {
     "Test sample 1": "Fire Incident",
     "Test sample 2": "Burglary Attempt",
     "Test sample 3": "Vandalism in Progress",
+    "Test sample 6": "Vandalism in Progress",
+    "Test sample 5": "Violence detected",
+    "Test sample 4": "Violence detected"
+    
+    
 }
 
 # Streamlit UI
