@@ -17,7 +17,7 @@ CATEGORIES = {
 
 # Streamlit UI
 st.title("🔍 Smart CCTV Incident Detector")
-st.subheader("Hey user!\n This is a demo of our solution. The AI model isn't trained yet, but you can pick a sample video to see how it will work. Feel free to play around.")
+st.subheader("Hey user!\n This is a demo of our solution. The AI model is now trained, and you can pick a sample video to see how it will work. Feel free to play around.")
 
 # User selects a sample video
 selected_sample = st.selectbox("🎥 Select a sample video", ["None"] + list(SAMPLE_VIDEOS.keys()))
