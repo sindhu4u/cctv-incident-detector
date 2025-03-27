@@ -6,6 +6,12 @@ SAMPLE_VIDEOS = {
     "Test sample 1": "fire.mp4",
     "Test sample 2": "burglary.mp4",
     "Test sample 3": "vandalism1.mp4",
+    "Test sample 4": "violence.mp4",
+    "Test sample 5": "violence2.mp4",
+    "Test sample 5": "vandalism2.mp4"
+   
+    
+    
 }
 
 # Incident categories (matching test samples)
