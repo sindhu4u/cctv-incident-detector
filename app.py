@@ -3,9 +3,9 @@ import time
 
 # Sample test videos (Replace with actual paths)
 SAMPLE_VIDEOS = {
-    "Test sample 1": "videos/fire.mp4",
-    "Test sample 2": "videos/burglary.mp4",
-    "Test sample 3": "videos/vandalism1.mp4",
+    "Test sample 1": "fire.mp4",
+    "Test sample 2": "burglary.mp4",
+    "Test sample 3": "vandalism1.mp4",
 }
 
 # Incident categories (matching test samples)
